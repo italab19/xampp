@@ -1,0 +1,58 @@
+footer 
+{
+	//background-color: #777;
+	//padding-bottom: 250px;
+	text-align:center;
+	color: black;
+	padding-top:5px;
+}
+header 
+{
+	background-color: rgb(34, 167, 240);
+	text-align:center;
+	color: white;
+	padding-top:3px;
+	padding-bottom:2px;
+}
+#box {
+  background-color: rgb(228, 241, 254);
+  width: 300px;
+  border: 7px solid rgb(34, 167, 240);
+  padding: 30px;
+  margin: 15px;
+
+}
+body
+{
+	 background-color: rgb(228, 241, 254);
+}
+input 
+{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+input[type=submit]
+{
+  background-color: rgb(34, 167, 240);
+  color: white;
+}
+a:link {
+  background-color: yellow;
+}
+
+a:visited {
+  background-color: cyan;
+}
+
+a:hover {
+  background-color: lightgreen;
+}
+
+a:active {
+  background-color: hotpink;
+} 
